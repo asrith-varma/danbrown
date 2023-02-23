@@ -1,0 +1,179 @@
+#myid
+{
+    color: black;
+}
+#danbrown
+{
+    align-items: center;
+}
+#profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#angelsanddemons{
+    color: black;
+  }
+.dan1{
+    background-color: rgb(157, 132, 99);
+    align-items: center;
+}
+.circular_image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: blue;
+    /* commented for demo
+    float: left;
+    margin-left: 125px;
+    margin-top: 20px;
+    */
+    
+    /*for demo*/
+    display:inline-block;
+    vertical-align:middle;
+  }
+  .circular_image img{
+    width:100%;
+  }
+  label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  h1{
+    font-size: xx-large;
+    color:black;
+  }
+  p{
+    color: rgb(240, 237, 243);
+  }
+  .books img{
+    margin-top: 1%;
+    margin-left: 21%;
+    margin-right: 10%;
+    width: 50%;
+    align-content: center ;
+  }
+  .books{
+    background-color: bisque;
+  }
+  hr{
+   height: 4px;
+   background-color: black;
+   border-color: black;
+   border-right: black;
+   border-left: black;
+  }
+
+  .bookslist{
+    background-color: rgb(234, 235, 231);
+  }
+  .AngelsAndDemons h2
+  {
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .AngelsAndDemons img
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .AngelsAndDemons p{
+    color: floralwhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+  }  
+  .AngelsAndDemons {
+    background-color: brown;
+  }
+  .Thedavincicode p
+  {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+  }
+  .Thedavincicode img
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .Thedavincicode 
+  {
+    background-color: antiquewhite;
+  }
+  .Thelostsymbol img
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .Thelostsymbol
+  {
+    background-color: gray;
+  }
+  .Inferno img
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .Inferno
+  {
+    background-color: rgb(78, 7, 7);
+  }
+  .Inferno p{
+    font-size: large;
+  }
+  .Inferno h2
+  {
+    color: rgb(227, 207, 207);
+  }
+  .Origin img
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .Origin
+  {
+    background-color: azure;
+  }
+  .Origin p
+  {
+    color: black;
+  }
+  .legend1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .Digitalfortress img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .Digitalfortress
+  {
+    background-color: aliceblue;
+  }
+  .Digitalfortress p
+  {
+    color: black;
+  }
+  .Deceptionpoint
+  {
+    background-color: rebeccapurple;
+  }
+  .foot
+  {
+    background-color: black;
+  }
+  .Danbrownlegend{
+    color: white;
+  }
